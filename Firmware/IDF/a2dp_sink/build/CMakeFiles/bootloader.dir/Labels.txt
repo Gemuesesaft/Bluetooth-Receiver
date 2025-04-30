@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/CMakeFiles/bootloader
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/CMakeFiles/bootloader.rule
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/CMakeFiles/bootloader-complete.rule
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/till/Documents/Projects/Personal/Bluetooth_Receiver/Firmware/IDF/a2dp_sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

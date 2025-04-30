@@ -1,0 +1,65 @@
+#MacOS
+.DS_Store
+
+# LTSpice
+*.log
+*.op.raw
+*.raw
+*.net
+
+# KiCAD 6
+
+# Temporary files
+\#auto_saved_files\#
+*.000
+*.bak
+*-bak
+*-bak*
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-cache*
+*.kicad_prl
+*.sch-bak
+*-save.pro
+*-save.kicad_pcb
+*~
+_autosave-*
+_autosave*
+*.tmp
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+
+#STM32CubeIDE
+.metadata
+Program/bin/
+Program/tmp/
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+Program/Debug/
+Program/RemoteSystemsTepFiles/
+*.chm
+*.settings.xml
+Program/*.xml
+*.launch
+
+#Uncleaned fabrication files
+**/production
+
+#3D Models
+*.stp
+*.step
